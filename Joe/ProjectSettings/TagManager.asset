@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Machine
+  - PopUp
+  - Spinning Wheel
+  - Water Wheel
+  - Spinning Wheel Ver 2
+  - Slide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1652775923
+    locked: 0
+  - name: Floor
+    uniqueID: 3916028533
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HealhBar
+    uniqueID: 2438362581
+    locked: 0
+  - name: UI
+    uniqueID: 1400234391
+    locked: 0
